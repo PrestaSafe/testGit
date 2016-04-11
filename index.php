@@ -8,15 +8,17 @@ class Hello2{
 
 =======
 class Hello{
-	
+
 	public function __construct(){
-		
+
 	}
-	
-	
+
+
 }
 >>>>>>> origin/master
 echo "hello world";
+
+echo "test depuis pc";
 
 
 ?>
