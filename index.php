@@ -18,5 +18,6 @@ class Hello{
 >>>>>>> origin/master
 echo "hello world";
 
+echo "test";
 
 ?>
