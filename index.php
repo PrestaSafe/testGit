@@ -4,7 +4,6 @@ class Hello{
 
   }
 
-<<<<<<< HEAD
   public function addPost(){
     // add post
   }
@@ -12,7 +11,7 @@ class Hello{
   public function deletePost(){
     // deletePOST
   }
- 
+
   public function addCustomer(){
       // add customer
   }
