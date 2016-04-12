@@ -19,6 +19,10 @@ class Hello{
   private function deleteCustomer(){
       // delete customer
   }
+
+  public function hookDashboard(){
+    // hooking on dashboard.
+  }
 }
 
 ?>
